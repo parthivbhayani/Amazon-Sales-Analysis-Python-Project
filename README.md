@@ -5,7 +5,7 @@
 Tools and resources Used for this particular project :-  
 
 • Python Jupyter Notebook  
-• Data Exploration
+• Data Exploration  
 • Data Visualization  
 
 Some Insights from Amazon Sales Data  
